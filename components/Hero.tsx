@@ -18,7 +18,7 @@ export default function Hero() {
                     Hey! I&apos;m NJ Umoh 
                 </Heading>
                 
-                <Heading id="tagline" fontSize="4xl" fontWeight="900" textAlign="center">
+                <Heading color="blue.300" id="tagline" fontSize="4xl" fontWeight="900" textAlign="center">
                     FullStack Developer and DevOps Engineer.
                 </Heading>
                 
